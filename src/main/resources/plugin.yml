@@ -1,0 +1,8 @@
+name: CommandBook
+version: '${project.version}'
+main: com.github.ringoame196.commandbook.CommandBook
+
+commands:
+  makecomb:
+    description: コマンドブックを発行する
+    usage: /makecomb <コマンド>
